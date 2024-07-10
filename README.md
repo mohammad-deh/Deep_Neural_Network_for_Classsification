@@ -1,1 +1,1 @@
-# Deep_Neural_Network_for_Classsification
+This repository contains the code and documentation on classifying trademarks using the North American Industry Classification System (NAICS). The goal is to develop an algorithm that reliably links trademarks to their respective industry classifications. In this classification task, we train a deep neural network to handle extremely imbalanced data, utilizing the SMOTE package to address the imbalance effectively.
